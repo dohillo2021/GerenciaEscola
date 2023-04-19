@@ -1,3 +1,38 @@
+Instrução:
+
+Gerenciamento de Escola:
+Administrar notas e frequencias dos alunos.
+O projeto se preocupa com a gestão de todos os dados e registros da instituição relativos aos alunos e professores.
+Deve ter uma interface do projeto para principalmente 3 tipos de usuário - administrador, professores, alunos para que cada um possa fazer login no sistema com um nome de usuário / senha válidos, possa visualizar seus detalhes e realizar suas respectivas operações.
+
+Sistema:
+Tela para cadastro de funcionários - Administrador - Professor
+Tela para cadastro de alunos
+Tela de cadastro de matérias
+Tela para relacionar alunos a matérias
+Tela para relacionar a matéria ao professor
+
+Professores:
+Tela de lançamento de presença
+Tela de lançamento de notas dos alunos
+
+Alunos:
+Relatório de boletim
+Relatório de presença
+
+
+Neste projeto, você utilizará um banco de dados e a linguagem JAVA.
+Podemos melhorar o sistema para ter período das matérias x alunos.
+
+
+
+
+
+
+
+
+
+
 Instalando o lombok no eclipse
 Abra o cmd como administrador.
 Digite: cd C:\Users\seu_nome_de_usuario\.m2\repository\org\projectlombok\lombok\1.18.24
